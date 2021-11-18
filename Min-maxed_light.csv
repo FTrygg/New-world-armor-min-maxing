@@ -1,0 +1,17 @@
+Rank; Total weight; Total protection; Helmet weightclass; Chests weightclass; Gloves weightclass; Pants weightclass; Boots weightclass;
+1;12.6;611.0;M;L;L;M;L;
+2;12.6;611.0;L;L;M;M;L;
+3;12.6;611.0;L;L;L;M;M;
+4;12.7;610.4;L;M;L;L;L;
+5;12.2;592.4;M;L;M;L;L;
+6;12.2;592.4;M;L;L;L;M;
+7;12.2;592.4;L;L;M;L;M;
+8;11.5;555.1;L;L;L;M;L;
+9;11.1;536.5;M;L;L;L;L;
+10;11.1;536.5;L;L;M;L;L;
+11;11.1;536.5;L;L;L;L;M;
+12;10.0;480.6;L;L;L;L;L;
+
+Light = L
+Medium = M
+Heavy = H
