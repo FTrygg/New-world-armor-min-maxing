@@ -36,3 +36,7 @@ Uhm wear all heavy?
 If you would like to see any other combinations, look here:
 [Full table for light](/Min-maxed_light.csv)
 [Full table for medium](/Min-maxed_medium.csv)
+
+# How did you get these numbers?
+Find the quick and dirty code [here](/minmax.py). You can also modify the protection values to your liking, in case this is outdated at some point.
+For my calculations, the faction gear was used.
