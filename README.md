@@ -25,9 +25,9 @@ The best combinations for the weightclasses are
 ## Medium
 | Rank | Total weight | Total protection | Helmet | Chest | Gloves | Pants | Boots |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 22.9 | 611.0 | Medium | Heavy | Medium | Light | Heavy |
-| 2 | 22.9 | 611.0 | Medium | Heavy | Heavy | Light | Medium |
-| 3 | 22.9 | 611.0 | Heavy | Heavy | Medium | Light | Medium |
+| 1 | 22.9 | 1108.9 | Medium | Heavy | Medium | Light | Heavy |
+| 2 | 22.9 | 1108.9 | Medium | Heavy | Heavy | Light | Medium |
+| 3 | 22.9 | 1108.9 | Heavy | Heavy | Medium | Light | Medium |
 
 ## Heavy
 Uhm wear all heavy?
