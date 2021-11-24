@@ -39,7 +39,7 @@ def branch(combinations : list, amroritem : list) -> None:
                 newcombos.append(newbranch)
     combinations.extend(newcombos)
 
-def evaluate(all_combinations : list) -> None:
+def evaluate() -> None:
     valid_med = []
     valid_light = []
     for combo in minmax():
@@ -82,10 +82,6 @@ def writeToCsv(targetweight : str, sortedCombos : list) -> None:
             
             row = row +"\n"
             f.write(row)
-
-        f.write("\nLight = L\n") 
-        f.write("Medium = M\n") 
-        f.write("Heavy = H\n") 
     
 s = minmax()
 evaluate(s)
